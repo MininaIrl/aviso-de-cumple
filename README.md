@@ -16,3 +16,6 @@ Sistema sencillo en Python para gestionar y recibir notificaciones de cumpleaño
 1. Instala la librería necesaria:
    ```bash
    pip install plyer
+Ejecuta interfaz.py para empezar a cargar datos.
+
+(Opcional) Agrega el lanzador.bat al Programador de Tareas de Windows para automatizar los avisos.
