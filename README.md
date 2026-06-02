@@ -1,4 +1,4 @@
-# 🎂 Aviso de Cumple
+#  Aviso de Cumple
 
 Sistema sencillo en Python para gestionar y recibir notificaciones de cumpleaños directamente en el escritorio.
 
